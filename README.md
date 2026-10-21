@@ -1,4 +1,5 @@
-# CXX-APP-on-Termux
+# conpilar apps feito em C++ usando o termux no android.
+
 conpilado de Aplicativos Android Nativos em C++ para Termux
 Um pequeno repositório que hospeda um backup do Termux para desenvolvedores que desejam criar aplicativos Android nativos usando C++ puro, sem precisar escrever código Java.
 O projeto fornece um ambiente Termux pré-configurado e um sistema de compilação simples para transformar código C++ em arquivos APK usando o Android NDK e ferramentas de linha de comando.
