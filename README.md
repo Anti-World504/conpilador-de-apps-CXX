@@ -34,6 +34,7 @@ O caminho esperado é:
 /storage/emulated/0/termux-backup.tar.gz
 Dependendo do gerenciador de arquivos utilizado, a raiz pode aparecer com o nome de Armazenamento interno.
 A estrutura de diretórios deve ficar parecida com esta:
+
 Armazenamento interno/
 ├── Android/
 ├── Download/
@@ -41,6 +42,7 @@ Armazenamento interno/
 ├── DCIM/
 ├── Pictures/
 └── termux-backup.tar.gz
+
 O arquivo de backup deve ficar diretamente na raiz do armazenamento interno, e não dentro da pasta Download.
 Restaurando o backup do Termux
 1. Instale e abra o Termux
