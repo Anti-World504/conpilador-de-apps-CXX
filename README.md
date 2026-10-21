@@ -24,7 +24,7 @@ Antes de começar, certifique-se de que você possui:
 Um dispositivo Android.
 O Termux, preferencialmente na versão mais recente disponível no F-Droid ou no repositório oficial do GitHub.
 Espaço de armazenamento suficiente para baixar e extrair os arquivos.
-O arquivo ZIP disponibilizado neste repositório.
+O arquivo ZIP disponibilizado aqui https://drive.google.com/drive/folders/1qLSJd4ofVE6bV-e1EvHG_hoHH-hjEmsb.
 Conhecimentos básicos de C++, caso queira modificar o aplicativo de exemplo.
 Importante: o backup possui aproximadamente 1,36 GB. Certifique-se de ter espaço livre suficiente antes de baixá-lo e restaurá-lo.
 Instalação
